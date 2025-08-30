@@ -19,9 +19,6 @@ Syntax highlighted code block
 - Bulleted
 - List
 
-- I'll get to learn Linux.
-- I'll practice using git.
-- The skills I learn in CS193 will help me for the rest of my career!
 
 1. Numbered
 2. List
@@ -31,6 +28,10 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 - This is what I'm adding to my webpage!
 ```
+### My Favorite Things about CS193
+- I'll get to learn Linux.
+- I'll practice using git.
+- The skills I learn in CS193 will help me for the rest of my career!
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
